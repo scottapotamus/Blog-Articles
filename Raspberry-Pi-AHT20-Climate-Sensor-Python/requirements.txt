@@ -1,5 +1,0 @@
-Adafruit_Blinka
-adafruit-circuitpython-ahtx0
-click
-matplotlib
-pandas
